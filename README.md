@@ -19,6 +19,7 @@ As operações devem ser:
 O que você deve nos entregar:
 - Código fonte no Github com documentação no readme ou wiki sobre como rodar localmente a aplicação
 - Utilize banco relacional (preferencialmente PostgreSQL)
+- Utilize .NET CORE;
 - Aplicação rodando no Azure ou qualquer outro cloud provider
 - Documentação de como utilizar os endpoints
 
