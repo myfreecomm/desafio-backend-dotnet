@@ -7,7 +7,7 @@ Crie uma API Rest que faça o gerenciamento de estoque de uma loja. As entidades
 - Store: Informações sobre a loja (id, nome e endereço, por exemplo)
 - StockItem: Deve relacionar uma loja a um produto e armazenar a quantidade de itens em estoque
 
-![Diagrama de domínio](assets/domain-diagram.png)
+![image](https://user-images.githubusercontent.com/1817569/114481805-bc0c5500-9bdb-11eb-9be3-058739c8757c.png)
 
 As operações devem ser:
 - Cadastrar, alterar, excluir e pesquisar produto (apenas por ID) 
