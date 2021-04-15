@@ -1,6 +1,6 @@
 # Desafio Nexaas para desenvolvedor(a) em .NET C#
 
-Ficamos felizes que você tenha chegado nesta etapa do processo seletivo para desenvolvedor(a) em .NET C#. Nosso desafio é a construção de uma API Rest, obrigatoriamente você deve implementar uma solução com .NET C# (preferencialmente utilizando Rails).
+Ficamos felizes que você tenha chegado nesta etapa do processo seletivo para desenvolvedor(a) em .NET C#. Nosso desafio é a construção de uma API Rest, obrigatoriamente você deve implementar uma solução com .NET C#.
 
 Crie uma API Rest que faça o gerenciamento de estoque de uma loja. As entidades devem ser: 
 - Product: informações de produto (id, nome e preço de custo, por exemplo)
@@ -27,7 +27,7 @@ O que vamos avaliar:
 - Solução adotada, principalmente a questão de adicionar e retirar itens do estoque (imagine um cenário de concorrência)
 - Cobertura de testes e a qualidade dos testes
 - Qualidade de código
-- Conceitos avançados de orientação a objetos (nada de fat model ou controllers com regras de negócio, por favor)
+- Conceitos avançados de orientação a objetos 
 - Estrutura do banco de dados (índices, chave estrangeiras, chaves únicas… use um banco relacional e todo seu poder)
 - Verbos e status code dos endpoints (utilize os padrões HTTP)
 - Como os erros são tratados
