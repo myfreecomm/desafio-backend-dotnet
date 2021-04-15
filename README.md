@@ -1,6 +1,10 @@
 # Desafio Nexaas para desenvolvedor(a) em .NET C#
 
 Ficamos felizes que você tenha chegado nesta etapa do processo seletivo para desenvolvedor(a) em .NET C#. Nosso desafio é a construção de uma API Rest, obrigatoriamente você deve implementar uma solução com .NET C#.
+* ASP.NET CORE > 2.0
+* POO
+* SOLID
+* Clear Code
 
 Crie uma API Rest que faça o gerenciamento de estoque de uma loja. As entidades devem ser: 
 - Product: informações de produto (id, nome e preço de custo, por exemplo)
@@ -24,12 +28,8 @@ O que você deve nos entregar:
 - Documentação de como utilizar os endpoints
 - A aplicação Server Side (API) deve ser protegida por um TOKEN
 - Configurações de banco devem ficar no web.config/appsettings.json
-* ASP.NET CORE > 2.0
-* POO
-* SOLID
-* Clear Code
-* Utilização correta de git (utilizar branch diferente da master para desenvolvimento)
-* Não esquecer de enviar os scripts de banco 
+- Utilização correta de git (utilizar branch diferente da master para desenvolvimento)
+- Não esquecer de enviar os scripts de banco 
 
 O que vamos avaliar:
 - Solução adotada, principalmente a questão de adicionar e retirar itens do estoque (imagine um cenário de concorrência)
