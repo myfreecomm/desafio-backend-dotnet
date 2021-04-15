@@ -22,6 +22,14 @@ O que você deve nos entregar:
 - Utilize .NET CORE;
 - Aplicação rodando no Azure ou qualquer outro cloud provider
 - Documentação de como utilizar os endpoints
+- A aplicação Server Side (API) deve ser protegida por um TOKEN
+- Configurações de banco devem ficar no web.config/appsettings.json
+* ASP.NET CORE > 2.0
+* POO
+* SOLID
+* Clear Code
+* Utilização correta de git (utilizar branch diferente da master para desenvolvimento)
+* Não esquecer de enviar os scripts de banco 
 
 O que vamos avaliar:
 - Solução adotada, principalmente a questão de adicionar e retirar itens do estoque (imagine um cenário de concorrência)
